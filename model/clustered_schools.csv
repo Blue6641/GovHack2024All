@@ -1,0 +1,442 @@
+School_code,School_name,Postcode,School_subtype,ICSEA_value,LBOTE_pct,Indigenous_pct,FOEI_Value,LGA,SA4,AECG_region,Local_health_district,Latitude,Longitude,Cluster
+8373,Five Islands Secondary College,2505,Year 10 to Year 12,980.0,10.0,8.0,116.0,Wollongong,Illawarra,Upper South Coast,Illawarra Shoalhaven,-34.489274,150.913541,1
+8110,Dubbo College Senior Campus,2830,Year 11 to Year 12,938.0,5.0,30.0,111.0,Dubbo,Far West and Orana,Western 1,Western NSW,-32.23506778,148.6285578,1
+8284,Georges River College Oatley Senior Campus,2223,Year 11 to Year 12,1020.0,73.0,1.0,93.0,Georges River,Sydney - Inner South West,Metropolitan East,South Eastern Sydney,-33.977001,151.081391,2
+8281,Great Lakes College Senior Campus,2428,Year 11 to Year 12,991.0,5.0,9.0,95.0,Mid-Coast,Mid North Coast,Manning,Hunter New England,-32.16071754,152.4937905,1
+8277,Wyndham College,2763,Year 11 to Year 12,997.0,41.0,5.0,100.0,Blacktown,Sydney - Blacktown,Metropolitan West,Western Sydney,-33.72608922,150.8795746,1
+8381,Bankstown Senior College,2200,Year 10 to Year 12,858.0,99.0,15.594132029339853,232.0,Canterbury-Bankstown,Sydney - Inner South West,Metropolitan South West,South Western Sydney,-33.929121,151.022569,2
+8272,Coffs Harbour Senior College,2450,Year 11 to Year 12,1033.0,8.0,7.0,65.0,Coffs Harbour,Coffs Harbour - Grafton,Lower North Coast,Mid North Coast,-30.330173,153.102656,0
+8880,Callaghan College Jesmond Senior Campus,2299,Year 11 to Year 12,970.0,19.0,11.0,112.0,Newcastle,Newcastle and Lake Macquarie,Hunter,Hunter New England,-32.900971,151.696335,1
+8568,Northern Beaches Secondary College Freshwater Senior Campus,2096,Year 11 to Year 12,1088.0,18.0,15.594132029339853,36.0,Northern Beaches,Sydney - Northern Beaches,Metropolitan North,Northern Sydney,-33.76751,151.279975,0
+8539,Sydney Secondary College Blackwattle Bay Campus,2037,Year 11 to Year 12,1100.0,40.0,2.0,24.0,Sydney,Sydney - City and Inner South,Metropolitan East,Sydney,-33.875142,151.188357,0
+8374,Brisbane Water Secondary College Woy Woy Campus,2256,Year 10 to Year 12,970.0,10.0,13.0,118.0,Central Coast (NSW),Central Coast,Central Coast,Central Coast,-33.492687,151.323582,1
+8870,St Marys Senior High School,2760,Year 11 to Year 12,1050.0,75.0,1.0,55.0,Penrith,Sydney - Outer West and Blue Mountains,Metropolitan West,Nepean Blue Mountains,-33.763119,150.770024,0
+8325,Moree Secondary College,2400,Year 7 to Year 12,834.0,8.0,49.0,150.0,Moree Plains,New England and North West,North Western 1,Hunter New England,-29.46645,149.842344,3
+8473,Chifley College Senior Campus,2770,Year 11 to Year 12,901.0,45.0,20.0,167.0,Blacktown,Sydney - Blacktown,Metropolitan West,Western Sydney,-33.769305,150.829855,1
+8138,Sydney Girls High School,2010,Year 7 to Year 12,1190.0,89.0,15.594132029339853,2.0,Sydney,Sydney - Eastern Suburbs,Metropolitan East,South Eastern Sydney,-33.894191,151.220371,0
+8241,Moorefield Girls High School,2217,Year 7 to Year 12,1014.0,77.0,3.0,87.0,Bayside (NSW),Sydney - Inner South West,Metropolitan East,South Eastern Sydney,-33.968311,151.137739,2
+8320,Kogarah High School,2217,Year 7 to Year 12,990.0,92.0,15.594132029339853,107.0,Georges River,Sydney - Inner South West,Metropolitan East,South Eastern Sydney,-33.961161,151.134227,2
+8556,Alexandria Park Community School,2015,Kindergarten to Year 12,1039.0,57.0,16.0,50.0,Sydney,Sydney - City and Inner South,Metropolitan East,Sydney,-33.901164,151.196518,0
+8587,Sydney Distance Education High School,2011,Year 7 to Year 12,1029.0,18.0,8.0,87.0,Sydney,Sydney - City and Inner South,Metropolitan East,South Eastern Sydney,-33.871053,151.22098,1
+8833,Dulwich High School of Visual Arts and Design,2203,Year 7 to Year 12,1085.0,39.0,4.0,34.0,Inner West,Sydney - Inner West,Metropolitan East,Sydney,-33.904038,151.144871,0
+8882,James Cook Boys High School,2217,Year 7 to Year 12,1003.0,70.0,2.0,95.0,Bayside (NSW),Sydney - Inner South West,Metropolitan East,South Eastern Sydney,-33.96648,151.13709,2
+8107,Canterbury Boys High School,2193,Year 7 to Year 12,1003.0,84.0,3.0,105.0,Inner West,Sydney - Inner West,Metropolitan East,Sydney,-33.904178,151.123884,2
+8136,St George Girls High School,2217,Year 7 to Year 12,1136.0,95.0,0.0,17.0,Georges River,Sydney - Inner South West,Metropolitan East,South Eastern Sydney,-33.959073,151.136035,0
+8137,Sydney Boys High School,2021,Year 7 to Year 12,1182.0,93.0,0.0,0.0,Sydney,Sydney - Eastern Suburbs,Metropolitan East,South Eastern Sydney,-33.892165,151.218904,0
+8141,Sydney Technical High School,2207,Year 7 to Year 12,1123.0,95.0,15.594132029339853,22.0,Bayside (NSW),Sydney - Inner South West,Metropolitan East,South Eastern Sydney,-33.963075,151.114342,0
+8147,Conservatorium High School,2000,Year 7 to Year 12,1176.0,77.0,0.0,0.0,Sydney,Sydney - City and Inner South,Metropolitan East,South Eastern Sydney,-33.863407,151.21408,0
+8152,Burwood Girls High School,2132,Year 7 to Year 12,1099.0,61.0,1.0,40.0,Burwood,Sydney - Inner West,Metropolitan East,Sydney,-33.875318,151.113036,0
+8161,Randwick Boys High School,2031,Year 7 to Year 12,1071.0,57.0,2.0,51.0,Randwick,Sydney - Eastern Suburbs,Metropolitan East,South Eastern Sydney,-33.924712,151.238771,0
+8220,Randwick Girls High School,2031,Year 7 to Year 12,1075.0,52.0,3.0,44.0,Randwick,Sydney - Eastern Suburbs,Metropolitan East,South Eastern Sydney,-33.921832,151.23944,0
+8221,Kingsgrove North High School,2208,Year 7 to Year 12,997.0,79.0,2.0,110.0,Canterbury-Bankstown,Sydney - Inner South West,Metropolitan East,Sydney,-33.93398,151.097628,2
+8230,Port Hacking High School,2228,Year 7 to Year 12,1050.0,33.0,3.0,64.0,Sutherland,Sydney - Sutherland,Metropolitan East,South Eastern Sydney,-34.032395,151.097257,0
+8236,Blakehurst High School,2221,Year 7 to Year 12,1038.0,82.0,2.0,72.0,Georges River,Sydney - Inner South West,Metropolitan East,South Eastern Sydney,-33.980406,151.11324,0
+8240,Caringbah High School,2229,Year 7 to Year 12,1177.0,55.0,1.0,9.0,Sutherland,Sydney - Sutherland,Metropolitan East,South Eastern Sydney,-34.034901,151.120399,0
+8246,Heathcote High School,2233,Year 7 to Year 12,1019.0,7.0,3.0,87.0,Sutherland,Sydney - Sutherland,Metropolitan East,South Eastern Sydney,-34.082295,151.01441,1
+8249,Matraville Sports High School,2036,Year 7 to Year 12,940.0,37.0,27.0,112.0,Randwick,Sydney - Eastern Suburbs,Metropolitan East,South Eastern Sydney,-33.964747,151.244548,1
+8261,Cronulla High School,2230,Year 7 to Year 12,1048.0,17.0,3.0,65.0,Sutherland,Sydney - Sutherland,Metropolitan East,South Eastern Sydney,-34.038439,151.159056,0
+8263,J J Cahill Memorial High School,2020,Year 7 to Year 12,979.0,64.0,6.0,109.0,Bayside (NSW),Sydney - City and Inner South,Metropolitan East,South Eastern Sydney,-33.927435,151.201835,2
+8271,Lucas Heights Community School,2234,Kindergarten to Year 12,1033.0,18.0,4.0,76.0,Sutherland,Sydney - Sutherland,Metropolitan East,South Eastern Sydney,-34.035778,151.004817,0
+8386,Gymea Technology High School,2227,Year 7 to Year 12,1046.0,26.0,4.0,70.0,Sutherland,Sydney - Sutherland,Metropolitan East,South Eastern Sydney,-34.029985,151.08338,0
+8404,Endeavour Sports High School,2229,Year 7 to Year 12,1034.0,33.0,5.0,74.0,Sutherland,Sydney - Sutherland,Metropolitan East,South Eastern Sydney,-34.030083,151.117251,0
+8432,Engadine High School,2233,Year 7 to Year 12,1045.0,9.0,3.0,72.0,Sutherland,Sydney - Sutherland,Metropolitan East,South Eastern Sydney,-34.062141,151.019341,0
+8433,Woolooware High School,2230,Year 7 to Year 12,1056.0,19.0,1.0,67.0,Sutherland,Sydney - Sutherland,Metropolitan East,South Eastern Sydney,-34.039811,151.145595,0
+8437,Kirrawee High School,2232,Year 7 to Year 12,1082.0,16.0,2.0,44.0,Sutherland,Sydney - Sutherland,Metropolitan East,South Eastern Sydney,-34.04348,151.073475,0
+8463,Sylvania High School,2224,Year 7 to Year 12,1038.0,52.0,3.0,78.0,Sutherland,Sydney - Sutherland,Metropolitan East,South Eastern Sydney,-34.017367,151.103529,0
+8504,Fort Street High School,2049,Year 7 to Year 12,1178.0,75.0,15.594132029339853,6.0,Inner West,Sydney - City and Inner South,Metropolitan East,Sydney,-33.890196,151.1529,0
+8506,Tempe High School,2044,Year 7 to Year 12,1082.0,64.0,4.0,43.0,Inner West,Sydney - City and Inner South,Metropolitan East,Sydney,-33.91975,151.16094,0
+8530,Newtown High School of Performing Arts,2042,Year 7 to Year 12,1131.0,28.0,2.0,10.0,Sydney,Sydney - City and Inner South,Metropolitan East,Sydney,-33.899534,151.178338,0
+8540,Marrickville High School,2204,Year 7 to Year 12,1059.0,47.0,3.0,55.0,Inner West,Sydney - City and Inner South,Metropolitan East,Sydney,-33.905781,151.155995,0
+8545,South Sydney High School,2035,Year 7 to Year 12,1033.0,42.0,5.0,75.0,Randwick,Sydney - Eastern Suburbs,Metropolitan East,South Eastern Sydney,-33.944154,151.234397,0
+8555,Rose Bay Secondary College,2030,Year 7 to Year 12,1105.0,44.0,1.0,26.0,Waverley,Sydney - Eastern Suburbs,Metropolitan East,South Eastern Sydney,-33.878347,151.276121,0
+8583,Menai High School,2234,Year 7 to Year 12,1046.0,37.0,2.0,69.0,Sutherland,Sydney - Sutherland,Metropolitan East,South Eastern Sydney,-34.002904,151.023851,0
+8806,Canterbury Girls High School,2193,Year 7 to Year 12,1069.0,59.0,2.0,52.0,Canterbury-Bankstown,Sydney - Inner West,Metropolitan East,Sydney,-33.907264,151.122631,0
+8832,Ashfield Boys High School,2131,Year 7 to Year 12,1063.0,64.0,2.0,53.0,Inner West,Sydney - Inner West,Metropolitan East,Sydney,-33.889547,151.129219,0
+8852,The Jannali High School,2226,Year 7 to Year 12,1052.0,15.0,3.0,60.0,Sutherland,Sydney - Sutherland,Metropolitan East,South Eastern Sydney,-34.021612,151.061927,0
+8247,Kingsgrove High School,2208,Year 7 to Year 12,983.0,86.0,1.0,114.0,Georges River,Sydney - Inner South West,Metropolitan East,South Eastern Sydney,-33.948519,151.101653,2
+8159,Willoughby Girls High School,2068,Year 7 to Year 12,1147.0,61.0,15.594132029339853,8.0,Willoughby,Sydney - North Sydney and Hornsby,Metropolitan North,Northern Sydney,-33.803128,151.199957,0
+8222,Asquith Girls High School,2077,Year 7 to Year 12,1075.0,30.0,2.0,49.0,Hornsby,Sydney - North Sydney and Hornsby,Metropolitan North,Northern Sydney,-33.689716,151.11275,0
+8245,Asquith Boys High School,2077,Year 7 to Year 12,1044.0,19.0,3.0,65.0,Hornsby,Sydney - North Sydney and Hornsby,Metropolitan North,Northern Sydney,-33.692276,151.103016,0
+8438,Pennant Hills High School,2120,Year 7 to Year 12,1105.0,33.0,1.0,28.0,Hornsby,Sydney - Ryde,Metropolitan North,Northern Sydney,-33.733692,151.061087,0
+8512,Narrabeen Sports High School,2101,Year 7 to Year 12,1042.0,19.0,1.0,70.0,Northern Beaches,Sydney - Northern Beaches,Metropolitan North,Northern Sydney,-33.700941,151.298401,0
+8567,Northern Beaches Secondary College Manly Campus,2099,Year 7 to Year 12,1212.0,55.0,1.0,0.0,Northern Beaches,Sydney - Northern Beaches,Metropolitan North,Northern Sydney,-33.762388,151.281355,0
+8851,Northern Beaches Secondary College Balgowlah Boys Campus,2093,Year 7 to Year 12,1115.0,25.0,1.0,22.0,Northern Beaches,Sydney - Northern Beaches,Metropolitan North,Northern Sydney,-33.796405,151.254607,0
+8120,Hornsby Girls High School,2077,Year 7 to Year 12,1202.0,91.0,0.0,0.0,Hornsby,Sydney - North Sydney and Hornsby,Metropolitan North,Northern Sydney,-33.706627,151.101083,0
+8132,North Sydney Boys High School,2060,Year 7 to Year 12,1192.0,95.0,0.0,0.0,North Sydney,Sydney - North Sydney and Hornsby,Metropolitan North,Northern Sydney,-33.829336,151.207734,0
+8133,North Sydney Girls High School,2065,Year 7 to Year 12,1197.0,93.0,0.0,0.0,North Sydney,Sydney - North Sydney and Hornsby,Metropolitan North,Northern Sydney,-33.830244,151.203447,0
+8207,Hunters Hill High School,2110,Year 7 to Year 12,1093.0,38.0,2.0,33.0,Hunters Hill,Sydney - Ryde,Metropolitan North,Northern Sydney,-33.832696,151.148509,0
+8208,Cheltenham Girls High School,2119,Year 7 to Year 12,1134.0,76.0,15.594132029339853,9.0,Hornsby,Sydney - Ryde,Metropolitan North,Northern Sydney,-33.75627,151.074096,0
+8211,Normanhurst Boys High School,2076,Year 7 to Year 12,1193.0,89.0,15.594132029339853,0.0,Hornsby,Sydney - North Sydney and Hornsby,Metropolitan North,Northern Sydney,-33.721475,151.101466,0
+8225,Marsden High School,2114,Year 7 to Year 12,1040.0,71.0,2.0,69.0,Ryde,Sydney - Ryde,Metropolitan North,Northern Sydney,-33.812981,151.092237,0
+8232,Chatswood High School,2067,Year 7 to Year 12,1133.0,79.0,15.594132029339853,10.0,Willoughby,Sydney - North Sydney and Hornsby,Metropolitan North,Northern Sydney,-33.800013,151.175324,0
+8243,Riverside Girls High School,2111,Year 7 to Year 12,1107.0,46.0,15.594132029339853,32.0,Hunters Hill,Sydney - Ryde,Metropolitan North,Northern Sydney,-33.840079,151.141467,0
+8326,Mosman High School,2088,Year 7 to Year 12,1125.0,39.0,15.594132029339853,19.0,Mosman,Sydney - North Sydney and Hornsby,Metropolitan North,Northern Sydney,-33.829677,151.243425,0
+8372,The Forest High School,2086,Year 7 to Year 12,1055.0,34.0,2.0,67.0,Northern Beaches,Sydney - Northern Beaches,Metropolitan North,Northern Sydney,-33.750298,151.2298,0
+8379,Pittwater High School,2103,Year 7 to Year 12,1073.0,17.0,1.0,49.0,Northern Beaches,Sydney - Northern Beaches,Metropolitan North,Northern Sydney,-33.668259,151.302664,0
+8382,Castle Hill High School,2154,Year 7 to Year 12,1117.0,62.0,15.594132029339853,19.0,The Hills,Sydney - Baulkham Hills and Hawkesbury,Metropolitan North,Western Sydney,-33.726635,150.999534,0
+8400,St Ives High School,2075,Year 7 to Year 12,1123.0,57.0,15.594132029339853,15.0,Ku-ring-gai,Sydney - North Sydney and Hornsby,Metropolitan North,Northern Sydney,-33.740147,151.167078,0
+8415,Ryde Secondary College,2112,Year 7 to Year 12,1105.0,66.0,1.0,28.0,Ryde,Sydney - Ryde,Metropolitan North,Northern Sydney,-33.813316,151.119176,0
+8416,Ku-ring-gai High School,2074,Year 7 to Year 12,1087.0,22.0,2.0,44.0,Ku-ring-gai,Sydney - North Sydney and Hornsby,Metropolitan North,Northern Sydney,-33.690973,151.153809,0
+8422,Killarney Heights High School,2087,Year 7 to Year 12,1126.0,44.0,15.594132029339853,20.0,Northern Beaches,Sydney - Northern Beaches,Metropolitan North,Northern Sydney,-33.771925,151.215215,0
+8447,Carlingford High School,2118,Year 7 to Year 12,1115.0,83.0,15.594132029339853,21.0,Parramatta,Sydney - Parramatta,Metropolitan North,Northern Sydney,-33.765412,151.050764,0
+8454,Barrenjoey High School,2107,Year 7 to Year 12,1088.0,13.0,15.594132029339853,41.0,Northern Beaches,Sydney - Northern Beaches,Metropolitan North,Northern Sydney,-33.63117,151.333926,0
+8457,Killara High School,2071,Year 7 to Year 12,1148.0,56.0,0.0,3.0,Ku-ring-gai,Sydney - North Sydney and Hornsby,Metropolitan North,Northern Sydney,-33.756575,151.174102,0
+8479,Davidson High School,2086,Year 7 to Year 12,1083.0,17.0,15.594132029339853,43.0,Northern Beaches,Sydney - Northern Beaches,Metropolitan North,Northern Sydney,-33.74468,151.205465,0
+8481,Galston High School,2159,Year 7 to Year 12,1043.0,16.0,1.0,71.0,Hornsby,Sydney - Baulkham Hills and Hawkesbury,Metropolitan North,Northern Sydney,-33.660931,151.042348,0
+8498,Muirfield High School,2151,Year 7 to Year 12,1078.0,35.0,1.0,48.0,Parramatta,Sydney - Parramatta,Metropolitan North,Western Sydney,-33.764695,151.022294,0
+8511,Northern Beaches Secondary College Cromer Campus,2099,Year 7 to Year 12,1045.0,29.0,2.0,70.0,Northern Beaches,Sydney - Northern Beaches,Metropolitan North,Northern Sydney,-33.737765,151.284453,0
+8592,Cherrybrook Technology High School,2126,Year 7 to Year 12,1141.0,73.0,15.594132029339853,5.0,Hornsby,Sydney - Baulkham Hills and Hawkesbury,Metropolitan North,Northern Sydney,-33.719852,151.037583,0
+8831,Northern Beaches Secondary College Mackellar Girls Campus,2093,Year 7 to Year 12,1109.0,29.0,1.0,31.0,Northern Beaches,Sydney - Northern Beaches,Metropolitan North,Northern Sydney,-33.782109,151.272401,0
+8884,Epping Boys High School,2122,Year 7 to Year 12,1112.0,71.0,1.0,15.0,Ryde,Sydney - Ryde,Metropolitan North,Northern Sydney,-33.769453,151.099645,0
+8435,Turramurra High School,2074,Year 7 to Year 12,1116.0,38.0,1.0,15.0,Ku-ring-gai,Sydney - North Sydney and Hornsby,Metropolitan North,Northern Sydney,-33.757307,151.114786,0
+8187,East Hills Girls Technology High School,2213,Year 7 to Year 12,1021.0,75.0,3.0,87.0,Canterbury-Bankstown,Sydney - Inner South West,Metropolitan South West,South Western Sydney,-33.956866,150.992016,2
+8209,Cabramatta High School,2166,Year 7 to Year 12,935.0,95.0,1.0,156.0,Fairfield,Sydney - South West,Metropolitan South West,South Western Sydney,-33.901422,150.928913,2
+8213,Birrong Boys High School,2143,Year 7 to Year 12,931.0,95.0,2.0,156.0,Canterbury-Bankstown,Sydney - Inner South West,Metropolitan South West,South Western Sydney,-33.894047,151.025024,2
+8227,Merrylands High School,2160,Year 7 to Year 12,925.0,87.0,3.0,156.0,Cumberland,Sydney - Parramatta,Metropolitan South West,Western Sydney,-33.840847,150.96957,2
+8250,Sir Joseph Banks High School,2212,Year 7 to Year 12,951.0,80.0,3.0,139.0,Canterbury-Bankstown,Sydney - Inner South West,Metropolitan South West,South Western Sydney,-33.939698,151.020907,2
+8262,Ingleburn High School,2565,Year 7 to Year 12,949.0,54.0,10.0,129.0,Campbelltown (NSW),Sydney - Outer South West,Metropolitan South West,South Western Sydney,-34.005121,150.87152,2
+8286,Mount Annan High School,2567,Year 7 to Year 12,980.0,33.0,7.0,110.0,Camden,Sydney - Outer South West,Dharawal,South Western Sydney,-34.057371,150.760739,1
+8377,Picnic Point High School,2213,Year 7 to Year 12,1018.0,38.0,4.0,89.0,Canterbury-Bankstown,Sydney - Inner South West,Metropolitan South West,South Western Sydney,-33.964344,151.011457,0
+8398,Condell Park High School,2200,Year 7 to Year 12,942.0,93.0,15.594132029339853,152.0,Canterbury-Bankstown,Sydney - Inner South West,Metropolitan South West,South Western Sydney,-33.923579,151.001755,2
+8424,Holroyd High School,2145,Year 7 to Year 12,934.0,88.0,2.0,147.0,Cumberland,Sydney - Parramatta,Metropolitan South West,Western Sydney,-33.832906,150.951137,2
+8436,Granville South Creative and Performing Arts High School,2161,Year 7 to Year 12,865.0,92.0,2.0,193.0,Cumberland,Sydney - Parramatta,Metropolitan South West,Western Sydney,-33.860626,150.997598,2
+8531,St Johns Park High School,2176,Year 7 to Year 12,931.0,91.0,2.0,152.0,Fairfield,Sydney - South West,Metropolitan South West,South Western Sydney,-33.873073,150.892002,2
+8589,Thomas Reddall High School,2560,Year 7 to Year 12,908.0,34.0,16.0,151.0,Campbelltown (NSW),Sydney - Outer South West,Dharawal,South Western Sydney,-34.082029,150.801488,1
+8804,Belmore Boys High School,2192,Year 7 to Year 12,948.0,98.0,15.594132029339853,141.0,Canterbury-Bankstown,Sydney - Inner South West,Metropolitan South West,Sydney,-33.910796,151.085575,2
+8811,Granville Boys High School,2142,Year 7 to Year 12,950.0,97.0,1.0,140.0,Cumberland,Sydney - Parramatta,Metropolitan South West,Western Sydney,-33.834618,151.008817,2
+8854,Birrong Girls High School,2143,Year 7 to Year 12,956.0,95.0,1.0,144.0,Canterbury-Bankstown,Sydney - Inner South West,Metropolitan South West,South Western Sydney,-33.88948,151.025708,2
+8888,Wiley Park Girls High School,2196,Year 7 to Year 12,957.0,95.0,1.0,143.0,Canterbury-Bankstown,Sydney - Inner South West,Metropolitan South West,Sydney,-33.924357,151.066545,2
+8121,Hurlstone Agricultural High School,2167,Year 7 to Year 12,1124.0,92.0,15.594132029339853,27.0,Campbelltown (NSW),Sydney - Outer South West,Metropolitan South West,South Western Sydney,-33.970383,150.893629,0
+8151,Homebush Boys High School,2140,Year 7 to Year 12,1046.0,92.0,15.594132029339853,67.0,Strathfield,Sydney - Inner West,Metropolitan South West,Sydney,-33.866059,151.077132,0
+8169,Strathfield Girls High School,2135,Year 7 to Year 12,1073.0,91.0,1.0,51.0,Strathfield,Sydney - Inner West,Metropolitan South West,Sydney,-33.873901,151.084571,0
+8176,Liverpool Girls High School,2170,Year 7 to Year 12,939.0,90.0,2.0,152.0,Liverpool,Sydney - South West,Metropolitan South West,South Western Sydney,-33.917986,150.931475,2
+8180,Campbelltown Performing Arts High School,2560,Year 7 to Year 12,954.0,39.0,10.0,126.0,Campbelltown (NSW),Sydney - Outer South West,Dharawal,South Western Sydney,-34.060108,150.822959,1
+8184,Punchbowl Boys High School,2196,Year 7 to Year 12,918.0,97.0,15.594132029339853,161.0,Canterbury-Bankstown,Sydney - Inner South West,Metropolitan South West,South Western Sydney,-33.924027,151.052954,2
+8186,Liverpool Boys High School,2170,Year 7 to Year 12,916.0,88.0,3.0,166.0,Liverpool,Sydney - South West,Metropolitan South West,South Western Sydney,-33.917157,150.93154,2
+8206,East Hills Boys High School,2213,Year 7 to Year 12,1011.0,84.0,1.0,95.0,Canterbury-Bankstown,Sydney - Inner South West,Metropolitan South West,South Western Sydney,-33.957229,150.994115,2
+8215,Picton High School,2571,Year 7 to Year 12,949.0,10.0,11.0,123.0,Wollondilly,Sydney - Outer South West,Dharawal,South Western Sydney,-34.194467,150.608418,1
+8217,Camden High School,2570,Year 7 to Year 12,981.0,11.0,8.0,103.0,Camden,Sydney - Outer South West,Dharawal,South Western Sydney,-34.0793994,150.6777325,1
+8223,Bass High School,2197,Year 7 to Year 12,915.0,81.0,4.0,162.0,Canterbury-Bankstown,Sydney - Inner South West,Metropolitan South West,South Western Sydney,-33.897941,150.989379,2
+8252,Strathfield South High School,2136,Year 7 to Year 12,952.0,89.0,2.0,139.0,Strathfield,Sydney - Inner West,Metropolitan South West,Sydney,-33.885382,151.071235,2
+8253,Auburn Girls High School,2144,Year 7 to Year 12,959.0,97.0,1.0,136.0,Cumberland,Sydney - Parramatta,Metropolitan South West,Western Sydney,-33.84288,151.033681,2
+8254,Bankstown Girls High School,2200,Year 7 to Year 12,959.0,97.0,0.0,140.0,Canterbury-Bankstown,Sydney - Inner South West,Metropolitan South West,South Western Sydney,-33.920754,151.032138,2
+8255,Beverly Hills Girls High School,2209,Year 7 to Year 12,997.0,97.0,15.594132029339853,111.0,Georges River,Sydney - Inner South West,Metropolitan South West,South Eastern Sydney,-33.948461,151.078627,2
+8260,Bonnyrigg High School,2177,Year 7 to Year 12,959.0,91.0,3.0,139.0,Fairfield,Sydney - South West,Metropolitan South West,South Western Sydney,-33.894982,150.893167,2
+8265,Sefton High School,2162,Year 7 to Year 12,1033.0,95.0,15.594132029339853,92.0,Canterbury-Bankstown,Sydney - Parramatta,Metropolitan South West,South Western Sydney,-33.879538,151.008799,2
+8269,Chester Hill High School,2162,Year 7 to Year 12,929.0,92.0,1.0,157.0,Canterbury-Bankstown,Sydney - Parramatta,Metropolitan South West,South Western Sydney,-33.874032,150.995411,2
+8273,Cecil Hills High School,2171,Year 7 to Year 12,989.0,86.0,1.0,112.0,Liverpool,Sydney - South West,Metropolitan South West,South Western Sydney,-33.895704,150.852043,2
+8290,John Edmondson High School,2171,Year 7 to Year 12,975.0,72.0,3.0,119.0,Liverpool,Sydney - South West,Metropolitan South West,South Western Sydney,-33.946,150.843226,2
+8384,Westfields Sports High School,2165,Year 7 to Year 12,971.0,65.0,4.0,121.0,Fairfield,Sydney - South West,Metropolitan South West,South Western Sydney,-33.866933,150.920432,2
+8393,Canley Vale High School,2166,Year 7 to Year 12,959.0,97.0,15.594132029339853,138.0,Fairfield,Sydney - South West,Metropolitan South West,South Western Sydney,-33.884644,150.951658,2
+8394,Miller High School,2168,Year 7 to Year 12,884.0,80.0,8.0,183.0,Liverpool,Sydney - South West,Metropolitan South West,South Western Sydney,-33.923589,150.881139,2
+8397,Ashcroft High School,2168,Year 7 to Year 12,882.0,69.0,14.0,176.0,Liverpool,Sydney - South West,Metropolitan South West,South Western Sydney,-33.920414,150.897272,2
+8401,Lurnea High School,2170,Year 7 to Year 12,904.0,84.0,5.0,165.0,Liverpool,Sydney - South West,Metropolitan South West,South Western Sydney,-33.941743,150.896043,2
+8456,Fairvale High School,2165,Year 7 to Year 12,918.0,92.0,2.0,163.0,Fairfield,Sydney - South West,Metropolitan South West,South Western Sydney,-33.873614,150.929459,2
+8460,James Busby High School,2168,Year 7 to Year 12,915.0,79.0,6.0,162.0,Liverpool,Sydney - South West,Metropolitan South West,South Western Sydney,-33.908964,150.874039,2
+8485,Hoxton Park High School,2168,Year 7 to Year 12,946.0,83.0,3.0,143.0,Liverpool,Sydney - South West,Metropolitan South West,South Western Sydney,-33.92,150.86162,2
+8493,Airds High School,2560,Year 7 to Year 12,869.0,33.0,29.0,171.0,Campbelltown (NSW),Sydney - Outer South West,Dharawal,South Western Sydney,-34.086883,150.827109,1
+8497,James Meehan High School,2564,Year 7 to Year 12,871.0,39.0,20.0,176.0,Campbelltown (NSW),Sydney - Outer South West,Metropolitan South West,South Western Sydney,-33.988351,150.892287,1
+8501,Moorebank High School,2170,Year 7 to Year 12,1027.0,83.0,1.0,83.0,Liverpool,Sydney - South West,Metropolitan South West,South Western Sydney,-33.925772,150.958685,2
+8521,Elderslie High School,2567,Year 7 to Year 12,992.0,20.0,6.0,104.0,Camden,Sydney - Outer South West,Dharawal,South Western Sydney,-34.052603,150.715295,1
+8532,Leumeah High School,2560,Year 7 to Year 12,956.0,43.0,8.0,120.0,Campbelltown (NSW),Sydney - Outer South West,Dharawal,South Western Sydney,-34.054339,150.84737,1
+8535,Concord High School,2137,Year 7 to Year 12,1071.0,69.0,2.0,50.0,Canada Bay,Sydney - Inner West,Metropolitan South West,Sydney,-33.864062,151.109271,0
+8550,Fairfield High School,2165,Year 7 to Year 12,889.0,94.0,1.0,182.0,Fairfield,Sydney - South West,Metropolitan South West,South Western Sydney,-33.865214,150.958647,2
+8551,Sarah Redfern High School,2566,Year 7 to Year 12,941.0,67.0,11.0,131.0,Campbelltown (NSW),Sydney - Outer South West,Metropolitan South West,South Western Sydney,-34.026782,150.85088,2
+8553,Macquarie Fields High School,2564,Year 7 to Year 12,1065.0,85.0,2.0,46.0,Campbelltown (NSW),Sydney - Outer South West,Metropolitan South West,South Western Sydney,-33.996784,150.884901,0
+8560,Prairiewood High School,2176,Year 7 to Year 12,980.0,86.0,1.0,124.0,Fairfield,Sydney - South West,Metropolitan South West,South Western Sydney,-33.85948,150.901709,2
+8564,Holsworthy High School,2173,Year 7 to Year 12,990.0,38.0,7.0,106.0,Liverpool,Sydney - South West,Metropolitan South West,South Western Sydney,-33.955528,150.95232,1
+8569,Eagle Vale High School,2558,Year 7 to Year 12,921.0,48.0,8.0,160.0,Campbelltown (NSW),Sydney - Outer South West,Dharawal,South Western Sydney,-34.039942,150.803543,2
+8570,Ambarvale High School,2560,Year 7 to Year 12,919.0,35.0,15.0,149.0,Campbelltown (NSW),Sydney - Outer South West,Dharawal,South Western Sydney,-34.099984,150.801938,1
+8575,Robert Townson High School,2566,Year 7 to Year 12,956.0,48.0,7.0,125.0,Campbelltown (NSW),Sydney - Outer South West,Metropolitan South West,South Western Sydney,-34.01533,150.817995,2
+8582,Bossley Park High School,2176,Year 7 to Year 12,969.0,82.0,1.0,129.0,Fairfield,Sydney - South West,Metropolitan South West,South Western Sydney,-33.870958,150.875379,2
+8584,Elizabeth Macarthur High School,2567,Year 7 to Year 12,1012.0,36.0,5.0,89.0,Camden,Sydney - Outer South West,Dharawal,South Western Sydney,-34.057072,150.740091,0
+8476,Casula High School,2170,Year 7 to Year 12,960.0,78.0,4.0,132.0,Liverpool,Sydney - South West,Metropolitan South West,South Western Sydney,-33.95123,150.8937,2
+8150,Katoomba High School,2780,Year 7 to Year 12,1041.0,16.0,7.0,68.0,Blue Mountains,Sydney - Outer West and Blue Mountains,Metropolitan West,Nepean Blue Mountains,-33.727402,150.314399,0
+8224,Blacktown Girls High School,2148,Year 7 to Year 12,1045.0,89.0,2.0,68.0,Blacktown,Sydney - Blacktown,Metropolitan West,Western Sydney,-33.761976,150.910792,0
+8231,Seven Hills High School,2147,Year 7 to Year 12,967.0,19.0,7.0,125.0,Blacktown,Sydney - Blacktown,Metropolitan West,Western Sydney,-33.762705,150.94487,1
+8244,Blacktown Boys High School,2148,Year 7 to Year 12,1051.0,89.0,2.0,54.0,Blacktown,Sydney - Blacktown,Metropolitan West,Western Sydney,-33.762057,150.912543,0
+8268,Glenwood High School,2768,Year 7 to Year 12,1078.0,64.0,1.0,41.0,Blacktown,Sydney - Blacktown,Metropolitan West,Western Sydney,-33.733029,150.937429,0
+8291,Rouse Hill High School,2155,Year 7 to Year 12,1059.0,50.0,1.0,55.0,The Hills,Sydney - Baulkham Hills and Hawkesbury,Metropolitan West,Western Sydney,-33.6864,150.9317,0
+8383,Nepean Creative and Performing Arts High School,2750,Year 7 to Year 12,997.0,13.0,8.0,97.0,Penrith,Sydney - Outer West and Blue Mountains,Metropolitan West,Nepean Blue Mountains,-33.747745,150.668882,1
+8385,Greystanes High School,2145,Year 7 to Year 12,1005.0,61.0,3.0,101.0,Cumberland,Sydney - Parramatta,Metropolitan West,Western Sydney,-33.812495,150.940352,2
+8399,Doonside High School,2767,Year 7 to Year 12,907.0,49.0,17.0,146.0,Blacktown,Sydney - Blacktown,Metropolitan West,Western Sydney,-33.754708,150.874186,1
+8403,Mitchell High School,2148,Year 7 to Year 12,973.0,58.0,6.0,115.0,Blacktown,Sydney - Blacktown,Metropolitan West,Western Sydney,-33.784795,150.915971,2
+8420,Evans High School,2148,Year 7 to Year 12,951.0,72.0,5.0,135.0,Blacktown,Sydney - Blacktown,Metropolitan West,Western Sydney,-33.786512,150.889725,2
+8458,Kingswood High School,2747,Year 7 to Year 12,950.0,29.0,15.0,124.0,Penrith,Sydney - Outer West and Blue Mountains,Metropolitan West,Nepean Blue Mountains,-33.770416,150.715263,1
+8464,Baulkham Hills High School,2153,Year 7 to Year 12,1194.0,94.0,0.0,0.0,The Hills,Sydney - Baulkham Hills and Hawkesbury,Metropolitan West,Western Sydney,-33.750227,150.991499,0
+8477,Kellyville High School,2155,Year 7 to Year 12,1075.0,51.0,2.0,49.0,The Hills,Sydney - Baulkham Hills and Hawkesbury,Metropolitan West,Western Sydney,-33.707777,150.969921,0
+8500,Girraween High School,2145,Year 7 to Year 12,1191.0,97.0,0.0,0.0,Cumberland,Sydney - Parramatta,Metropolitan West,Western Sydney,-33.79989,150.944577,0
+8552,Crestwood High School,2153,Year 7 to Year 12,1091.0,56.0,1.0,37.0,The Hills,Sydney - Baulkham Hills and Hawkesbury,Metropolitan West,Western Sydney,-33.743607,150.975672,0
+8559,Jamison High School,2750,Year 7 to Year 12,969.0,15.0,10.0,115.0,Penrith,Sydney - Outer West and Blue Mountains,Metropolitan West,Nepean Blue Mountains,-33.775335,150.698118,1
+8565,Hawkesbury High School,2756,Year 7 to Year 12,947.0,6.0,13.0,119.0,Hawkesbury,Sydney - Baulkham Hills and Hawkesbury,Metropolitan West,Nepean Blue Mountains,-33.559541,150.798039,1
+8571,St Clair High School,2759,Year 7 to Year 12,950.0,36.0,8.0,130.0,Penrith,Sydney - Outer West and Blue Mountains,Metropolitan West,Nepean Blue Mountains,-33.794217,150.786794,1
+8822,Macarthur Girls High School,2150,Year 7 to Year 12,1058.0,92.0,15.594132029339853,56.0,Parramatta,Sydney - Parramatta,Metropolitan West,Western Sydney,-33.813086,151.012499,0
+8892,Arthur Phillip High School,2150,Year 7 to Year 12,982.0,92.0,1.0,113.0,Parramatta,Sydney - Parramatta,Metropolitan West,Western Sydney,-33.816386,151.007364,2
+8135,Parramatta High School,2150,Year 7 to Year 12,1121.0,97.0,15.594132029339853,10.0,Parramatta,Sydney - Parramatta,Metropolitan West,Western Sydney,-33.817883,150.996083,0
+8163,Penrith High School,2750,Year 7 to Year 12,1174.0,93.0,15.594132029339853,0.0,Penrith,Sydney - Outer West and Blue Mountains,Metropolitan West,Nepean Blue Mountains,-33.756721,150.706537,0
+8178,Richmond High School,2753,Year 7 to Year 12,967.0,19.0,14.0,115.0,Hawkesbury,Sydney - Outer West and Blue Mountains,Metropolitan West,Nepean Blue Mountains,-33.600535,150.746715,1
+8229,Northmead Creative and Performing Arts High School,2152,Year 7 to Year 12,1050.0,54.0,2.0,63.0,Parramatta,Sydney - Parramatta,Metropolitan West,Western Sydney,-33.788092,150.999661,0
+8276,Glenmore Park High School,2745,Year 7 to Year 12,974.0,13.0,8.0,115.0,Penrith,Sydney - Outer West and Blue Mountains,Metropolitan West,Nepean Blue Mountains,-33.791012,150.672564,1
+8395,Pendle Hill High School,2145,Year 7 to Year 12,978.0,66.0,5.0,111.0,Parramatta,Sydney - Parramatta,Metropolitan West,Western Sydney,-33.793877,150.962194,2
+8396,Windsor High School,2756,Year 7 to Year 12,923.0,12.0,19.0,135.0,Hawkesbury,Sydney - Baulkham Hills and Hawkesbury,Metropolitan West,Nepean Blue Mountains,-33.618653,150.833554,1
+8412,The Hills Sports High School,2147,Year 7 to Year 12,962.0,43.0,8.0,120.0,Blacktown,Sydney - Blacktown,Metropolitan West,Western Sydney,-33.782184,150.938834,1
+8443,Colyton High School,2760,Year 7 to Year 12,912.0,38.0,11.0,151.0,Penrith,Sydney - Outer West and Blue Mountains,Metropolitan West,Nepean Blue Mountains,-33.777602,150.797336,1
+8446,Springwood High School,2776,Year 7 to Year 12,1026.0,12.0,6.0,78.0,Blue Mountains,Sydney - Outer West and Blue Mountains,Metropolitan West,Nepean Blue Mountains,-33.685057,150.550608,1
+8499,Model Farms High School,2153,Year 7 to Year 12,1071.0,43.0,1.0,53.0,The Hills,Sydney - Baulkham Hills and Hawkesbury,Metropolitan West,Western Sydney,-33.76943,150.971394,0
+8514,Plumpton High School,2761,Year 7 to Year 12,953.0,57.0,10.0,124.0,Blacktown,Sydney - Blacktown,Metropolitan West,Western Sydney,-33.748126,150.835498,2
+8516,Cambridge Park High School,2747,Year 7 to Year 12,917.0,20.0,16.0,143.0,Penrith,Sydney - Outer West and Blue Mountains,Metropolitan West,Nepean Blue Mountains,-33.752164,150.732892,1
+8522,Blaxland High School,2774,Year 7 to Year 12,1064.0,11.0,4.0,56.0,Blue Mountains,Sydney - Outer West and Blue Mountains,Metropolitan West,Nepean Blue Mountains,-33.754247,150.60859,0
+8526,Colo High School,2754,Year 7 to Year 12,1007.0,8.0,7.0,89.0,Hawkesbury,Sydney - Outer West and Blue Mountains,Metropolitan West,Nepean Blue Mountains,-33.569359,150.708204,1
+8528,Chifley College Bidwill Campus,2770,Year 7 to Year 12,865.0,45.0,24.0,176.0,Blacktown,Sydney - Blacktown,Metropolitan West,Western Sydney,-33.733854,150.827271,1
+8573,Winmalee High School,2777,Year 7 to Year 12,1049.0,7.0,5.0,65.0,Blue Mountains,Sydney - Outer West and Blue Mountains,Metropolitan West,Nepean Blue Mountains,-33.676047,150.615138,0
+8580,Cranebrook High School,2749,Year 7 to Year 12,915.0,15.0,21.0,140.0,Penrith,Sydney - Outer West and Blue Mountains,Metropolitan West,Nepean Blue Mountains,-33.721662,150.709812,1
+8590,Erskine Park High School,2759,Year 7 to Year 12,973.0,29.0,7.0,117.0,Penrith,Sydney - Outer West and Blue Mountains,Metropolitan West,Nepean Blue Mountains,-33.807899,150.802962,1
+8594,Quakers Hill High School,2763,Year 7 to Year 12,1012.0,38.0,4.0,85.0,Blacktown,Sydney - Blacktown,Metropolitan West,Western Sydney,-33.729813,150.89645,0
+8905,Cumberland High School,2118,Year 7 to Year 12,1055.0,77.0,1.0,59.0,Parramatta,Sydney - Parramatta,Metropolitan West,Western Sydney,-33.785205,151.036898,0
+8907,Riverstone High School,2765,Year 7 to Year 12,962.0,43.0,11.0,112.0,Blacktown,Sydney - Blacktown,Metropolitan West,Western Sydney,-33.678883,150.875744,1
+8908,Rooty Hill High School,2766,Year 7 to Year 12,962.0,58.0,5.0,124.0,Blacktown,Sydney - Blacktown,Metropolitan West,Western Sydney,-33.770841,150.838148,2
+8235,James Ruse Agricultural High School,2118,Year 7 to Year 12,1226.0,97.0,0.0,0.0,Parramatta,Sydney - Parramatta,Metropolitan West,Western Sydney,-33.780624,151.043204,0
+2528,Merriwa Central School,2329,Kindergarten to Year 12,870.0,31.878934624697337,23.0,145.0,Upper Hunter,Hunter Valley exc Newcastle,Hunter,Hunter New England,-32.145113,150.352867,1
+8127,Maitland Grossmann High School,2323,Year 7 to Year 12,970.0,7.0,12.0,105.0,Maitland,Hunter Valley exc Newcastle,Hunter,Hunter New England,-32.743453,151.591504,1
+8177,Kurri Kurri High School,2327,Year 7 to Year 12,902.0,3.0,23.0,148.0,Cessnock,Hunter Valley exc Newcastle,Hunter,Hunter New England,-32.810142,151.486294,1
+8233,Hunter Sports High School,2290,Year 7 to Year 12,946.0,6.0,23.0,119.0,Lake Macquarie,Newcastle and Lake Macquarie,Hunter,Hunter New England,-32.985494,151.691142,1
+8278,Wadalba Community School,2259,Kindergarten to Year 12,946.0,9.0,15.0,123.0,Central Coast (NSW),Central Coast,Central Coast,Central Coast,-33.264769,151.467432,1
+8390,Whitebridge High School,2290,Year 7 to Year 12,1021.0,10.0,9.0,77.0,Lake Macquarie,Newcastle and Lake Macquarie,Hunter,Hunter New England,-32.972025,151.712234,1
+8409,Scone High School,2337,Year 7 to Year 12,906.0,5.0,24.0,129.0,Upper Hunter,Hunter Valley exc Newcastle,Hunter,Hunter New England,-32.05813,150.873111,1
+8411,West Wallsend High School,2286,Year 7 to Year 12,933.0,5.0,17.0,126.0,Lake Macquarie,Newcastle and Lake Macquarie,Hunter,Hunter New England,-32.910565,151.581083,1
+8439,Francis Greenway High School,2322,Year 7 to Year 12,914.0,4.0,19.0,146.0,Maitland,Newcastle and Lake Macquarie,Hunter,Hunter New England,-32.79698,151.66077,1
+8467,Henry Kendall High School,2250,Year 7 to Year 12,1025.0,24.0,6.0,78.0,Central Coast (NSW),Central Coast,Central Coast,Central Coast,-33.420757,151.334496,0
+8472,Dungog High School,2420,Year 7 to Year 12,954.0,2.0,14.0,114.0,Dungog,Hunter Valley exc Newcastle,Hunter,Hunter New England,-32.396819,151.750417,1
+8515,Gorokan High School,2263,Year 7 to Year 12,931.0,8.0,18.0,137.0,Central Coast (NSW),Central Coast,Central Coast,Central Coast,-33.242182,151.508233,1
+8533,Terrigal High School,2260,Year 7 to Year 12,1040.0,10.0,6.0,70.0,Central Coast (NSW),Central Coast,Central Coast,Central Coast,-33.442167,151.429342,0
+8574,Mount View High School,2325,Year 7 to Year 12,912.0,3.0,22.0,138.0,Cessnock,Hunter Valley exc Newcastle,Hunter,Hunter New England,-32.827955,151.333246,1
+8585,Kincumber High School,2251,Year 7 to Year 12,1030.0,7.0,7.0,72.0,Central Coast (NSW),Central Coast,Central Coast,Central Coast,-33.464894,151.382516,1
+8591,Narara Valley High School,2250,Year 7 to Year 12,979.0,11.0,11.0,109.0,Central Coast (NSW),Central Coast,Central Coast,Central Coast,-33.398422,151.334064,1
+8903,Cardiff High School,2285,Year 7 to Year 12,977.0,9.0,16.0,106.0,Lake Macquarie,Newcastle and Lake Macquarie,Hunter,Hunter New England,-32.951363,151.670299,1
+8909,Toronto High School,2283,Year 7 to Year 12,963.0,5.0,17.0,113.0,Lake Macquarie,Newcastle and Lake Macquarie,Hunter,Hunter New England,-33.008794,151.582022,1
+8108,Cessnock High School,2325,Year 7 to Year 12,884.0,2.0,24.0,156.0,Cessnock,Hunter Valley exc Newcastle,Hunter,Hunter New England,-32.842954,151.368528,1
+8115,Gosford High School,2250,Year 7 to Year 12,1144.0,57.0,1.0,15.0,Central Coast (NSW),Central Coast,Central Coast,Central Coast,-33.417183,151.341388,0
+8126,Maitland High School,2323,Year 7 to Year 12,942.0,7.0,17.0,125.0,Maitland,Hunter Valley exc Newcastle,Hunter,Hunter New England,-32.747365,151.597333,1
+8164,Muswellbrook High School,2333,Year 7 to Year 12,880.0,5.0,27.0,153.0,Muswellbrook,Hunter Valley exc Newcastle,Hunter,Hunter New England,-32.268737,150.897592,1
+8166,Wyong High School,2259,Year 7 to Year 12,944.0,11.0,14.0,130.0,Central Coast (NSW),Central Coast,Central Coast,Central Coast,-33.281328,151.417918,1
+8202,Singleton High School,2330,Year 7 to Year 12,910.0,7.0,24.0,139.0,Singleton,Hunter Valley exc Newcastle,Hunter,Hunter New England,-32.569684,151.177593,1
+8203,Belmont High School,2280,Year 7 to Year 12,968.0,5.0,13.0,117.0,Lake Macquarie,Newcastle and Lake Macquarie,Hunter,Hunter New England,-33.027147,151.660114,1
+8210,Lake Macquarie High School,2284,Year 7 to Year 12,913.0,5.0,21.0,143.0,Lake Macquarie,Newcastle and Lake Macquarie,Hunter,Hunter New England,-32.975553,151.613863,1
+8219,Hunter River High School,2324,Year 7 to Year 12,912.0,5.0,22.0,138.0,Port Stephens,Hunter Valley exc Newcastle,Hunter,Hunter New England,-32.781835,151.732798,1
+8279,Lake Munmorah High School,2259,Year 7 to Year 12,938.0,7.0,15.0,126.0,Central Coast (NSW),Central Coast,Central Coast,Central Coast,-33.189743,151.573699,1
+8292,Kariong Mountains High School,2250,Year 7 to Year 12,975.0,11.0,10.0,109.0,Central Coast (NSW),Central Coast,Central Coast,Central Coast,-33.43039,151.296076,1
+8389,Swansea High School,2281,Year 7 to Year 12,974.0,4.0,13.0,109.0,Lake Macquarie,Newcastle and Lake Macquarie,Hunter,Hunter New England,-33.104232,151.639823,1
+8405,Erina High School,2250,Year 7 to Year 12,992.0,13.0,8.0,96.0,Central Coast (NSW),Central Coast,Central Coast,Central Coast,-33.440279,151.381503,1
+8413,Morisset High School,2264,Year 7 to Year 12,926.0,9.0,20.0,132.0,Lake Macquarie,Newcastle and Lake Macquarie,Central Coast,Hunter New England,-33.104657,151.486629,1
+8423,Kotara High School,2289,Year 7 to Year 12,1057.0,10.0,5.0,56.0,Newcastle,Newcastle and Lake Macquarie,Hunter,Hunter New England,-32.947137,151.706868,0
+8440,Warners Bay High School,2282,Year 7 to Year 12,1052.0,6.0,4.0,69.0,Lake Macquarie,Newcastle and Lake Macquarie,Hunter,Hunter New England,-32.967703,151.653691,0
+8465,Tuggerah Lakes Secondary College The Entrance Campus,2261,Year 11 to Year 12,981.0,8.0,13.0,97.0,Central Coast (NSW),Central Coast,Central Coast,Central Coast,-33.371256,151.476613,1
+8466,Glendale Technology High School,2285,Year 7 to Year 12,949.0,7.0,14.0,124.0,Lake Macquarie,Newcastle and Lake Macquarie,Hunter,Hunter New England,-32.925928,151.642938,1
+8482,Lambton High School,2299,Year 7 to Year 12,1054.0,19.0,6.0,61.0,Newcastle,Newcastle and Lake Macquarie,Hunter,Hunter New England,-32.917918,151.722034,0
+8502,Tomaree High School,2317,Year 7 to Year 12,974.0,7.0,10.0,110.0,Port Stephens,Hunter Valley exc Newcastle,Hunter,Hunter New England,-32.735884,152.1122,1
+8509,Newcastle High School,2303,Year 7 to Year 12,1032.0,13.0,11.0,71.0,Newcastle,Newcastle and Lake Macquarie,Hunter,Hunter New England,-32.931677,151.758378,0
+8510,Merewether High School,2303,Year 7 to Year 12,1199.0,32.0,2.0,4.0,Newcastle,Newcastle and Lake Macquarie,Hunter,Hunter New England,-32.929684,151.734749,0
+8547,Northlakes High School,2262,Year 7 to Year 12,916.0,6.0,18.0,148.0,Central Coast (NSW),Central Coast,Central Coast,Central Coast,-33.216762,151.513395,1
+8562,Irrawang High School,2324,Year 7 to Year 12,934.0,4.0,18.0,133.0,Port Stephens,Hunter Valley exc Newcastle,Hunter,Hunter New England,-32.761513,151.766861,1
+8572,Rutherford Technology High School,2320,Year 7 to Year 12,917.0,6.0,19.0,138.0,Maitland,Hunter Valley exc Newcastle,Hunter,Hunter New England,-32.711235,151.531424,1
+8819,Hunter School of Performing Arts,2292,Kindergarten to Year 12,1080.0,11.0,5.0,42.0,Newcastle,Newcastle and Lake Macquarie,Hunter,Hunter New England,-32.924826,151.727614,0
+1886,Evans River Community School,2473,Kindergarten to Year 12,952.0,5.0,16.0,113.0,Richmond Valley,Richmond - Tweed,Upper North Coast,Northern NSW,-29.113492,153.424683,1
+1921,Lord Howe Island Central School,2898,Kindergarten to Year 12,1019.0,30.0,0.0,52.0,Unincorporated NSW,Mid North Coast,Lower North Coast,Far West,-31.530072,159.069032,0
+1290,Bonalbo Central School,2469,Kindergarten to Year 12,834.0,12.0,26.0,174.0,Kyogle,Richmond - Tweed,Upper North Coast,Northern NSW,-28.735472,152.623959,1
+1336,Bowraville Central School,2449,Kindergarten to Year 12,844.0,5.0,34.0,157.0,Nambucca Valley,Mid North Coast,Lower North Coast,Mid North Coast,-30.645289,152.853898,1
+1402,Bulahdelah Central School,2423,Kindergarten to Year 12,911.0,6.0,18.0,141.0,Mid-Coast,Mid North Coast,Manning,Hunter New England,-32.413374,152.211848,1
+8544,Lisarow High School,2250,Year 7 to Year 12,1013.0,10.0,7.0,86.0,Central Coast (NSW),Central Coast,Central Coast,Central Coast,-33.385327,151.370354,1
+8109,Coffs Harbour High School,2450,Year 7 to Year 12,958.0,22.0,12.0,110.0,Coffs Harbour,Coffs Harbour - Grafton,Lower North Coast,Mid North Coast,-30.305319,153.135846,1
+8129,Murwillumbah High School,2484,Year 7 to Year 12,964.0,6.0,12.0,120.0,Tweed,Richmond - Tweed,Upper North Coast,Northern NSW,-28.336032,153.391648,1
+8140,Taree High School,2430,Year 7 to Year 12,923.0,4.0,23.0,125.0,Mid-Coast,Mid North Coast,Manning,Hunter New England,-31.909866,152.46386,1
+8154,Casino High School,2470,Year 7 to Year 12,888.0,5.0,30.0,140.0,Richmond Valley,Richmond - Tweed,Upper North Coast,Northern NSW,-28.845167,153.0437,1
+8162,Macksville High School,2447,Year 7 to Year 12,935.0,4.0,17.0,118.0,Nambucca Valley,Mid North Coast,Lower North Coast,Mid North Coast,-30.714945,152.91701,1
+8214,"The Rivers Secondary College, Richmond River High Campus",2480,Year 7 to Year 12,963.0,7.0,16.0,107.0,Lismore,Richmond - Tweed,Upper North Coast,Northern NSW,-28.820846,153.296953,1
+8258,Bellingen High School,2454,Year 7 to Year 12,1012.0,7.0,9.0,80.0,Bellingen,Coffs Harbour - Grafton,Lower North Coast,Mid North Coast,-30.455123,152.908442,1
+8280,Camden Haven High School,2443,Year 7 to Year 12,955.0,3.0,15.0,117.0,Port Macquarie-Hastings,Mid North Coast,Manning,Mid North Coast,-31.639394,152.73608,1
+8282,Banora Point High School,2486,Year 7 to Year 12,963.0,8.0,12.0,114.0,Tweed,Richmond - Tweed,Upper North Coast,Northern NSW,-28.215457,153.525324,1
+8371,Gloucester High School,2422,Year 7 to Year 12,944.0,2.0,13.0,124.0,Mid-Coast,Mid North Coast,Manning,Hunter New England,-32.016661,151.959556,1
+8414,Chatham High School,2430,Year 7 to Year 12,821.0,4.0,45.0,168.0,Mid-Coast,Mid North Coast,Manning,Hunter New England,-31.89577,152.480875,3
+8453,Dorrigo High School,2453,Year 7 to Year 12,968.0,16.0,15.594132029339853,108.0,Bellingen,Coffs Harbour - Grafton,Lower North Coast,Mid North Coast,-30.339222,152.705492,1
+8520,"The Rivers Secondary College, Kadina High Campus",2480,Year 7 to Year 12,884.0,6.0,34.0,142.0,Lismore,Richmond - Tweed,Upper North Coast,Northern NSW,-28.81788,153.33864,1
+8527,Toormina High School,2452,Year 7 to Year 12,944.0,5.0,19.0,120.0,Coffs Harbour,Coffs Harbour - Grafton,Lower North Coast,Mid North Coast,-30.351016,153.084399,1
+8548,Woolgoolga High School,2456,Year 7 to Year 12,966.0,16.0,15.0,105.0,Coffs Harbour,Coffs Harbour - Grafton,Lower North Coast,Mid North Coast,-30.100448,153.190225,1
+3491,Woodenbong Central School,2476,Kindergarten to Year 12,836.0,31.878934624697337,43.0,152.0,Kyogle,Richmond - Tweed,Upper North Coast,Northern NSW,-28.389728,152.610148,3
+8579,Kingscliff High School,2487,Year 7 to Year 12,993.0,7.0,12.0,91.0,Tweed,Richmond - Tweed,Upper North Coast,Northern NSW,-28.266568,153.570474,1
+1066,Ashford Central School,2361,Kindergarten to Year 12,828.0,31.878934624697337,45.0,159.0,Inverell,New England and North West,North Western 2,Hunter New England,-29.321262,151.094638,3
+2751,Nimbin Central School,2480,Kindergarten to Year 12,944.0,18.0,19.0,126.0,Lismore,Richmond - Tweed,Upper North Coast,Northern NSW,-28.595871,153.220891,1
+1838,Emmaville Central School,2371,Kindergarten to Year 12,863.0,31.878934624697337,27.0,156.0,Glen Innes Severn,New England and North West,North Western 2,Hunter New England,-29.446152,151.601669,1
+8117,Grafton High School,2460,Year 7 to Year 12,941.0,4.0,18.0,118.0,Clarence Valley,Coffs Harbour - Grafton,Upper North Coast,Northern NSW,-29.682105,152.932509,1
+8123,Kempsey High School,2440,Year 7 to Year 12,854.0,3.0,39.0,152.0,Kempsey,Mid North Coast,Lower North Coast,Mid North Coast,-31.06806,152.824202,3
+8124,"The Rivers Secondary College, Lismore High Campus",2480,Year 7 to Year 12,949.0,8.0,20.0,119.0,Lismore,Richmond - Tweed,Upper North Coast,Northern NSW,-28.820823,153.297294,1
+2675,Mungindi Central School,2406,Kindergarten to Year 12,783.0,45.0,60.0,152.0,Moree Plains,New England and North West,North Western 1,Hunter New England,-28.9802,148.99085,3
+8173,Wauchope High School,2446,Year 7 to Year 12,904.0,2.0,22.0,141.0,Port Macquarie-Hastings,Mid North Coast,Lower North Coast,Mid North Coast,-31.450894,152.731158,1
+8189,Kyogle High School,2474,Year 7 to Year 12,928.0,4.0,14.0,134.0,Kyogle,Richmond - Tweed,Upper North Coast,Northern NSW,-28.625772,153.001529,1
+8193,Mullumbimby High School,2482,Year 7 to Year 12,1014.0,14.0,8.0,80.0,Byron,Richmond - Tweed,Upper North Coast,Northern NSW,-28.558569,153.494604,1
+8195,Ballina Coast High School,2478,Year 7 to Year 12,962.0,8.0,18.0,109.0,Ballina,Richmond - Tweed,Upper North Coast,Northern NSW,-28.866603,153.565058,1
+8362,Maclean High School,2463,Year 7 to Year 12,957.0,4.0,16.0,107.0,Clarence Valley,Coffs Harbour - Grafton,Upper North Coast,Northern NSW,-29.46644,153.20149,1
+8364,"Hastings Secondary College, Port Macquarie Campus",2444,Year 7 to Year 12,962.0,7.0,16.0,103.0,Port Macquarie-Hastings,Mid North Coast,Lower North Coast,Mid North Coast,-31.433295,152.92069,1
+8370,Tweed River High School,2486,Year 7 to Year 12,940.0,12.0,20.0,123.0,Tweed,Richmond - Tweed,Upper North Coast,Northern NSW,-28.195651,153.541012,1
+8391,Wingham High School,2429,Year 7 to Year 12,932.0,4.0,16.0,128.0,Mid-Coast,Mid North Coast,Manning,Hunter New England,-31.867397,152.382261,1
+8406,South Grafton High School,2460,Year 7 to Year 12,886.0,2.0,28.0,143.0,Clarence Valley,Coffs Harbour - Grafton,Upper North Coast,Northern NSW,-29.714229,152.929362,1
+8469,Orara High School,2450,Year 7 to Year 12,889.0,16.0,24.0,140.0,Coffs Harbour,Coffs Harbour - Grafton,Lower North Coast,Mid North Coast,-30.282811,153.112879,1
+8554,"Hastings Secondary College, Westport Campus",2444,Year 7 to Year 12,932.0,5.0,21.0,123.0,Port Macquarie-Hastings,Mid North Coast,Lower North Coast,Mid North Coast,-31.435345,152.895386,1
+8566,Melville High School,2440,Year 7 to Year 12,864.0,4.0,39.0,143.0,Kempsey,Mid North Coast,Lower North Coast,Mid North Coast,-31.09002,152.825104,1
+8577,Byron Bay High School,2481,Year 7 to Year 12,1054.0,18.0,4.0,51.0,Byron,Richmond - Tweed,Upper North Coast,Northern NSW,-28.667572,153.616057,0
+8578,Alstonville High School,2477,Year 7 to Year 12,999.0,7.0,8.0,86.0,Ballina,Richmond - Tweed,Upper North Coast,Northern NSW,-28.838812,153.433756,1
+8595,Nambucca Heads High School,2448,Year 7 to Year 12,883.0,7.0,31.0,138.0,Nambucca Valley,Mid North Coast,Lower North Coast,Mid North Coast,-30.640826,152.984614,1
+1140,Barraba Central School,2347,Kindergarten to Year 12,857.0,31.878934624697337,30.0,150.0,Tamworth,New England and North West,North Western 2,Hunter New England,-30.38239,150.599478,1
+3864,Uralla Central School,2358,Kindergarten to Year 12,891.0,5.0,34.0,134.0,Uralla,New England and North West,North Western 2,Hunter New England,-30.641511,151.494437,1
+8122,Inverell High School,2360,Year 7 to Year 12,890.0,7.0,27.0,138.0,Inverell,New England and North West,North Western 2,Hunter New England,-29.765729,151.110782,1
+8170,Narrabri High School,2390,Year 7 to Year 12,878.0,2.0,38.0,132.0,Narrabri,New England and North West,North Western 1,Hunter New England,-30.335548,149.78267,1
+8174,Quirindi High School,2343,Year 7 to Year 12,891.0,2.0,34.0,133.0,Liverpool Plains,New England and North West,North Western 2,Hunter New England,-31.501631,150.680087,1
+8188,Gunnedah High School,2380,Year 7 to Year 12,818.0,3.0,49.0,158.0,Gunnedah,New England and North West,North Western 1,Hunter New England,-30.982637,150.248768,3
+8270,Wee Waa High School,2388,Year 7 to Year 12,834.0,31.878934624697337,39.0,151.0,Narrabri,New England and North West,North Western 1,Hunter New England,-30.22268,149.442286,3
+8455,Oxley High School,2340,Year 7 to Year 12,937.0,6.0,24.0,106.0,Tamworth,New England and North West,North Western 2,Hunter New England,-31.077903,150.939078,1
+1589,Collarenebri Central School,2833,Kindergarten to Year 12,657.0,31.878934624697337,86.0,207.0,Walgett,Far West and Orana,North Western 1,Western NSW,-29.543823,148.578086,3
+1115,Balranald Central School,2715,Kindergarten to Year 12,907.0,7.0,17.0,139.0,Balranald,Murray,Riverina 3,Far West,-34.635575,143.564769,1
+2114,Guyra Central School,2365,Kindergarten to Year 12,891.0,6.0,21.0,144.0,Armidale,New England and North West,North Western 2,Hunter New England,-30.222577,151.677369,1
+3340,Walcha Central School,2354,Kindergarten to Year 12,917.0,8.0,25.0,118.0,Walcha,New England and North West,North Western 2,Hunter New England,-30.981805,151.604194,1
+2359,Lake Cargelligo Central School,2672,Kindergarten to Year 12,858.0,3.0,34.0,148.0,Lachlan,Central West,Riverina 1,Western NSW,-33.294836,146.373966,1
+2418,Lockhart Central School,2656,Kindergarten to Year 12,875.0,0.0,31.0,145.0,Lockhart,Riverina,Riverina 1,Murrumbidgee,-35.222753,146.714747,1
+2791,Oaklands Central School,2646,Kindergarten to Year 12,966.0,31.878934624697337,15.594132029339853,126.0,Federation,Murray,Riverina 1,Murrumbidgee,-35.552669,146.171768,1
+2976,The Rock Central School,2655,Kindergarten to Year 12,958.0,31.878934624697337,13.0,122.0,Lockhart,Riverina,Riverina 1,Murrumbidgee,-35.266335,147.115239,1
+7305,Manilla Central School,2346,Kindergarten to Year 12,850.0,4.0,36.0,155.0,Tamworth,New England and North West,North Western 2,Hunter New England,-30.750947,150.728435,1
+8111,Farrer Memorial Agricultural High School,2340,Year 7 to Year 12,1018.0,3.0,12.0,68.0,Tamworth,New England and North West,North Western 2,Hunter New England,-31.138453,150.979996,1
+8114,Glen Innes High School,2370,Year 7 to Year 12,945.0,3.0,19.0,117.0,Glen Innes Severn,New England and North West,North Western 2,Hunter New England,-29.744294,151.742487,1
+8139,Tamworth High School,2340,Year 7 to Year 12,861.0,5.0,40.0,149.0,Tamworth,New England and North West,North Western 2,Hunter New England,-31.105768,150.916936,3
+1234,Bingara Central School,2404,Kindergarten to Year 12,931.0,7.0,21.0,124.0,Gwydir,New England and North West,North Western 2,Hunter New England,-29.866705,150.56725,1
+1275,Boggabilla Central School,2409,Kindergarten to Year 12,689.0,29.0,95.0,210.0,Moree Plains,New England and North West,North Western 1,Hunter New England,-28.616586,150.361593,3
+1415,Bundarra Central School,2359,Kindergarten to Year 12,881.0,31.878934624697337,19.0,156.0,Uralla,New England and North West,North Western 2,Hunter New England,-30.168353,151.077625,1
+8519,Warialda High School,2402,Year 7 to Year 12,917.0,3.0,18.0,124.0,Gwydir,New England and North West,North Western 1,Hunter New England,-29.547875,150.574806,1
+8525,Peel High School,2340,Year 7 to Year 12,841.0,5.0,45.0,152.0,Tamworth,New England and North West,North Western 2,Hunter New England,-31.099764,150.89299,3
+1051,Ardlethan Central School,2665,Kindergarten to Year 12,883.0,31.878934624697337,29.0,141.0,Coolamon,Riverina,Riverina 1,Murrumbidgee,-34.354098,146.900557,1
+1055,Ariah Park Central School,2665,Kindergarten to Year 12,947.0,31.878934624697337,4.0,114.0,Temora,Riverina,Riverina 1,Murrumbidgee,-34.346925,147.218018,1
+1131,Barellan Central School,2665,Kindergarten to Year 12,926.0,31.878934624697337,20.0,127.0,Narrandera,Riverina,Riverina 1,Murrumbidgee,-34.287799,146.571928,1
+1152,Batlow Technology School,2730,Kindergarten to Year 12,908.0,7.0,15.594132029339853,150.0,Snowy Valleys,Riverina,Riverina 1,Murrumbidgee,-35.523007,148.146548,1
+4348,Coleambally Central School,2707,Kindergarten to Year 12,922.0,11.0,21.0,118.0,Murrumbidgee,Riverina,Riverina 1,Murrumbidgee,-34.804177,145.884407,1
+1624,Coolamon Central School,2701,Kindergarten to Year 12,977.0,31.878934624697337,9.0,108.0,Coolamon,Riverina,Riverina 1,Murrumbidgee,-34.811904,147.201398,1
+8101,Albury High School,2640,Year 7 to Year 12,1016.0,10.0,6.0,82.0,Albury,Murray,Riverina 1,Murrumbidgee,-36.072846,146.915442,1
+8119,Hay War Memorial High School,2711,Year 7 to Year 12,897.0,31.878934624697337,21.0,141.0,Hay,Murray,Riverina 2,Murrumbidgee,-34.504747,144.839262,1
+2165,Hillston Central School,2675,Kindergarten to Year 12,916.0,15.0,20.0,123.0,Carrathool,Riverina,Riverina 2,Murrumbidgee,-33.479904,145.54026,1
+8179,Junee High School,2663,Year 7 to Year 12,916.0,4.0,21.0,127.0,Junee,Riverina,Riverina 1,Murrumbidgee,-34.869115,147.592765,1
+8190,Cootamundra High School,2590,Year 7 to Year 12,919.0,3.0,16.0,138.0,Cootamundra-Gundagai,Riverina,Riverina 1,Murrumbidgee,-34.635419,148.017191,1
+8218,Deniliquin High School,2710,Year 7 to Year 12,949.0,3.0,12.0,120.0,Edward River,Murray,Riverina 2,Murrumbidgee,-35.53627,144.961269,1
+8266,James Fallon High School,2640,Year 7 to Year 12,913.0,10.0,20.0,138.0,Albury,Murray,Riverina 1,Murrumbidgee,-36.060244,146.928971,1
+8360,Finley High School,2713,Year 7 to Year 12,957.0,5.0,9.0,120.0,Berrigan,Murray,Riverina 2,Murrumbidgee,-35.640413,145.571271,1
+8392,West Wyalong High School,2671,Year 7 to Year 12,928.0,6.0,20.0,110.0,Bland,Central West,Western 1,Murrumbidgee,-33.915793,147.202014,1
+8407,Mount Austin High School,2650,Year 7 to Year 12,815.0,15.0,43.0,180.0,Wagga Wagga,Riverina,Riverina 1,Murrumbidgee,-35.141908,147.353865,3
+8442,Gundagai High School,2722,Year 7 to Year 12,925.0,4.0,14.0,133.0,Cootamundra-Gundagai,Riverina,Riverina 1,Murrumbidgee,-35.057144,148.099421,1
+8461,Barham High School,2732,Year 7 to Year 12,947.0,31.878934624697337,7.0,129.0,Murray River,Murray,Riverina 2,Murrumbidgee,-35.623,144.132055,1
+8483,Kooringal High School,2650,Year 7 to Year 12,954.0,12.0,16.0,110.0,Wagga Wagga,Riverina,Riverina 1,Murrumbidgee,-35.142886,147.381528,1
+8503,Billabong High School,2660,Year 7 to Year 12,960.0,2.0,9.0,118.0,Greater Hume,Murray,Riverina 1,Murrumbidgee,-35.660874,147.043931,1
+8505,Murray High School,2641,Year 7 to Year 12,936.0,16.0,9.0,137.0,Albury,Murray,Riverina 1,Murrumbidgee,-36.035173,146.946383,1
+1313,Boorowa Central School,2586,Kindergarten to Year 12,943.0,4.0,14.0,131.0,Hilltops,Capital Region,Upper South Coast,Murrumbidgee,-34.436712,148.726108,1
+1340,Braidwood Central School,2622,Kindergarten to Year 12,1000.0,6.0,4.0,93.0,Queanbeyan-Palerang,Capital Region,Lower South Coast,Southern NSW,-35.440595,149.798888,1
+8358,Tenterfield High School,2372,Year 7 to Year 12,916.0,3.0,17.0,131.0,Tenterfield,New England and North West,North Western 2,Hunter New England,-29.053727,152.016829,1
+8490,Macintyre High School,2360,Year 7 to Year 12,917.0,3.0,23.0,122.0,Inverell,New England and North West,North Western 2,Hunter New England,-29.767546,151.129187,1
+8142,Wagga Wagga High School,2650,Year 7 to Year 12,969.0,17.0,9.0,109.0,Wagga Wagga,Riverina,Riverina 1,Murrumbidgee,-35.124438,147.364366,1
+8144,Yanco Agricultural High School,2703,Year 7 to Year 12,1010.0,3.0,6.0,80.0,Leeton,Riverina,Riverina 1,Murrumbidgee,-34.632239,146.383678,1
+8155,Young High School,2594,Year 7 to Year 12,933.0,15.0,14.0,125.0,Hilltops,Capital Region,Riverina 1,Murrumbidgee,-34.317142,148.291705,1
+8156,Leeton High School,2705,Year 7 to Year 12,911.0,13.0,17.0,136.0,Leeton,Riverina,Riverina 1,Murrumbidgee,-34.54684,146.405976,1
+8157,Narrandera High School,2700,Year 7 to Year 12,890.0,6.0,32.0,129.0,Narrandera,Riverina,Riverina 1,Murrumbidgee,-34.74421,146.567177,1
+8168,Temora High School,2666,Year 7 to Year 12,947.0,5.0,8.0,116.0,Temora,Riverina,Riverina 1,Murrumbidgee,-34.441897,147.539525,1
+8308,Corowa High School,2646,Year 7 to Year 12,974.0,5.0,3.0,113.0,Federation,Murray,Riverina 1,Murrumbidgee,-35.993008,146.381577,1
+8328,Murrumburrah High School,2587,Year 7 to Year 12,893.0,6.0,21.0,149.0,Hilltops,Capital Region,Riverina 1,Murrumbidgee,-34.559162,148.369808,1
+8343,Tumut High School,2720,Year 7 to Year 12,930.0,4.0,18.0,121.0,Snowy Valleys,Riverina,Riverina 1,Murrumbidgee,-35.312212,148.219291,1
+8450,Tumbarumba High School,2653,Year 7 to Year 12,929.0,5.0,14.0,133.0,Snowy Valleys,Riverina,Riverina 1,Murrumbidgee,-35.783098,148.018245,1
+3235,Tooleybuc Central School,2736,Kindergarten to Year 12,918.0,5.0,13.0,147.0,Murray River,Murray,Riverina 3,Murrumbidgee,-35.026575,143.338058,1
+3272,Tullibigeal Central School,2669,Kindergarten to Year 12,950.0,0.0,15.594132029339853,119.0,Lachlan,Central West,Western 1,Western NSW,-33.422886,146.722678,1
+3311,Ungarie Central School,2669,Kindergarten to Year 12,931.0,0.0,16.0,128.0,Bland,Central West,Western 1,Murrumbidgee,-33.637104,146.977953,1
+8116,Goulburn High School,2580,Year 7 to Year 12,946.0,8.0,10.0,126.0,Goulburn Mulwaree,Capital Region,Upper South Coast,Southern NSW,-34.746861,149.711241,1
+8143,Wollongong High School of the Performing Arts,2519,Year 7 to Year 12,1066.0,25.0,5.0,53.0,Wollongong,Illawarra,Upper South Coast,Illawarra Shoalhaven,-34.406432,150.889188,0
+8165,Bega High School,2550,Year 7 to Year 12,977.0,7.0,10.0,99.0,Bega Valley,Capital Region,Lower South Coast,Southern NSW,-36.678459,149.838766,1
+8171,Kiama High School,2533,Year 7 to Year 12,1033.0,7.0,5.0,71.0,Kiama,Illawarra,Upper South Coast,Illawarra Shoalhaven,-34.68066,150.847197,0
+8191,Corrimal High School,2518,Year 7 to Year 12,940.0,21.0,14.0,136.0,Wollongong,Illawarra,Upper South Coast,Illawarra Shoalhaven,-34.374243,150.91071,1
+8196,Monaro High School,2630,Year 7 to Year 12,975.0,10.0,6.0,109.0,Snowy Monaro,Capital Region,Lower South Coast,Southern NSW,-36.216655,149.134021,1
+8201,Nowra High School,2541,Year 7 to Year 12,953.0,8.0,18.0,112.0,Shoalhaven,Southern Highlands and Shoalhaven,Upper South Coast,Illawarra Shoalhaven,-34.872966,150.609361,1
+8204,Dapto High School,2530,Year 7 to Year 12,965.0,11.0,10.0,114.0,Wollongong,Illawarra,Upper South Coast,Illawarra Shoalhaven,-34.499054,150.785868,1
+8205,Illawarra Sports High School,2506,Year 7 to Year 12,930.0,27.0,15.0,133.0,Wollongong,Illawarra,Upper South Coast,Illawarra Shoalhaven,-34.480849,150.853331,1
+8216,Queanbeyan High School,2620,Year 7 to Year 12,973.0,24.0,13.0,106.0,Queanbeyan-Palerang,Capital Region,Upper South Coast,Southern NSW,-35.353243,149.220484,1
+8334,Yass High School,2582,Year 7 to Year 12,998.0,4.0,9.0,94.0,Yass Valley,Capital Region,Upper South Coast,Southern NSW,-34.835474,148.911066,1
+8368,Moruya High School,2537,Year 7 to Year 12,934.0,9.0,20.0,122.0,Eurobodalla,Capital Region,Lower South Coast,Southern NSW,-35.920195,150.08015,1
+8410,Woonona High School,2517,Year 7 to Year 12,1030.0,7.0,5.0,79.0,Wollongong,Illawarra,Upper South Coast,Illawarra Shoalhaven,-34.345037,150.910102,1
+8448,Bomaderry High School,2541,Year 7 to Year 12,954.0,6.0,18.0,117.0,Shoalhaven,Southern Highlands and Shoalhaven,Upper South Coast,Illawarra Shoalhaven,-34.844038,150.602725,1
+8452,Crookwell High School,2583,Year 7 to Year 12,962.0,31.878934624697337,7.0,115.0,Upper Lachlan,Capital Region,Upper South Coast,Southern NSW,-34.452754,149.466967,1
+8468,Mulwaree High School,2580,Year 7 to Year 12,954.0,6.0,10.0,119.0,Goulburn Mulwaree,Capital Region,Upper South Coast,Southern NSW,-34.728245,149.730169,1
+8480,Warrawong High School,2502,Year 7 to Year 12,915.0,44.0,13.0,155.0,Wollongong,Illawarra,Upper South Coast,Illawarra Shoalhaven,-34.480163,150.875178,1
+8489,Kanahooka High School,2530,Year 7 to Year 12,914.0,9.0,18.0,144.0,Wollongong,Illawarra,Upper South Coast,Illawarra Shoalhaven,-34.494652,150.805362,1
+8524,Karabar High School,2620,Year 7 to Year 12,999.0,17.0,11.0,95.0,Queanbeyan-Palerang,Capital Region,Upper South Coast,Southern NSW,-35.365337,149.224822,1
+8536,Narooma High School,2546,Year 7 to Year 12,955.0,5.0,16.0,105.0,Eurobodalla,Capital Region,Lower South Coast,Southern NSW,-36.235506,150.128648,1
+8542,Smiths Hill High School,2500,Year 7 to Year 12,1192.0,40.0,15.594132029339853,4.0,Wollongong,Illawarra,Upper South Coast,Illawarra Shoalhaven,-34.418889,150.89561,0
+8561,Shoalhaven High School,2541,Year 7 to Year 12,864.0,3.0,32.0,155.0,Shoalhaven,Southern Highlands and Shoalhaven,Upper South Coast,Illawarra Shoalhaven,-34.897296,150.610096,1
+8581,Batemans Bay High School,2536,Year 7 to Year 12,917.0,6.0,24.0,125.0,Eurobodalla,Capital Region,Lower South Coast,Southern NSW,-35.729246,150.194447,1
+8593,Vincentia High School,2540,Year 7 to Year 12,936.0,6.0,20.0,123.0,Shoalhaven,Southern Highlands and Shoalhaven,Upper South Coast,Illawarra Shoalhaven,-35.077698,150.662803,1
+8906,Oak Flats High School,2529,Year 7 to Year 12,933.0,10.0,15.0,135.0,Shellharbour,Illawarra,Upper South Coast,Illawarra Shoalhaven,-34.559745,150.83408,1
+1130,Baradine Central School,2396,Kindergarten to Year 12,776.0,0.0,56.0,166.0,Warrumbungle,Far West and Orana,North Western 1,Western NSW,-30.950736,149.070198,3
+1237,Binnaway Central School,2395,Kindergarten to Year 12,817.0,31.878934624697337,36.0,175.0,Warrumbungle,Far West and Orana,North Western 1,Western NSW,-31.552793,149.374951,3
+1350,Brewarrina Central School,2839,Kindergarten to Year 12,635.0,6.0,98.0,197.0,Brewarrina,Far West and Orana,Western 2,Western NSW,-29.963669,146.859088,3
+1621,Coolah Central School,2843,Kindergarten to Year 12,892.0,31.878934624697337,25.0,133.0,Warrumbungle,Far West and Orana,North Western 1,Western NSW,-31.821024,149.723624,1
+1789,Dunedoo Central School,2844,Kindergarten to Year 12,898.0,31.878934624697337,24.0,127.0,Warrumbungle,Central West,North Western 1,Western NSW,-32.018308,149.392212,1
+2213,Ivanhoe Central School,2878,Kindergarten to Year 12,787.0,31.878934624697337,58.0,155.0,Central Darling,Far West and Orana,Western 3,Far West,-32.898531,144.300978,3
+2590,Molong Central School,2866,Kindergarten to Year 12,930.0,3.0,19.0,124.0,Cabonne,Central West,Western 1,Western NSW,-33.098011,148.86389,1
+8104,Bowral High School,2576,Year 7 to Year 12,973.0,13.0,8.0,108.0,Wingecarribee,Southern Highlands and Shoalhaven,Upper South Coast,South Western Sydney,-34.488816,150.423432,1
+8388,Moss Vale High School,2577,Year 7 to Year 12,1014.0,10.0,5.0,84.0,Wingecarribee,Southern Highlands and Shoalhaven,Upper South Coast,South Western Sydney,-34.551483,150.385294,1
+8418,Warilla High School,2528,Year 7 to Year 12,970.0,17.0,9.0,116.0,Shellharbour,Illawarra,Upper South Coast,Illawarra Shoalhaven,-34.563813,150.857991,1
+2848,Peak Hill Central School,2869,Kindergarten to Year 12,785.0,0.0,65.0,163.0,Parkes,Central West,Western 1,Western NSW,-32.728855,148.192111,3
+2897,Portland Central School,2847,Kindergarten to Year 12,837.0,3.0,38.0,172.0,Lithgow,Central West,Western 1,Nepean Blue Mountains,-33.354772,149.979653,3
+3254,Trangie Central School,2823,Kindergarten to Year 12,846.0,5.0,53.0,120.0,Narromine,Far West and Orana,Western 1,Western NSW,-32.032544,147.979305,3
+8486,Bombala High School,2632,Year 7 to Year 12,936.0,31.878934624697337,11.0,121.0,Snowy Monaro,Capital Region,Lower South Coast,Southern NSW,-36.917647,149.231927,1
+8487,Eden Marine High School,2551,Year 7 to Year 12,952.0,3.0,11.0,115.0,Bega Valley,Capital Region,Lower South Coast,Southern NSW,-37.055009,149.90731,1
+3270,Tullamore Central School,2874,Kindergarten to Year 12,902.0,0.0,27.0,117.0,Parkes,Central West,Western 1,Western NSW,-32.636788,147.565993,1
+8495,Ulladulla High School,2539,Year 7 to Year 12,990.0,6.0,8.0,96.0,Shoalhaven,Southern Highlands and Shoalhaven,Upper South Coast,Illawarra Shoalhaven,-35.35821,150.47024,1
+8541,Keira High School,2519,Year 7 to Year 12,990.0,35.0,5.0,104.0,Wollongong,Illawarra,Upper South Coast,Illawarra Shoalhaven,-34.405282,150.88651,1
+8586,Albion Park High School,2527,Year 7 to Year 12,972.0,5.0,9.0,113.0,Shellharbour,Illawarra,Upper South Coast,Illawarra Shoalhaven,-34.576702,150.773359,1
+3442,Wilcannia Central School,2836,Kindergarten to Year 12,637.0,74.0,97.0,199.0,Central Darling,Far West and Orana,Western 3,Far West,-31.558478,143.37591,3
+3555,Yeoval Central School,2868,Kindergarten to Year 12,874.0,7.0,31.0,146.0,Cabonne,Far West and Orana,Western 1,Western NSW,-32.754375,148.649673,1
+8878,Bulli High School,2516,Year 7 to Year 12,1057.0,12.0,4.0,58.0,Wollongong,Illawarra,Upper South Coast,Illawarra Shoalhaven,-34.337247,150.921143,0
+4587,Dubbo School of Distance Education,2830,Kindergarten to Year 12,944.0,5.0,31.0,111.0,Dubbo,Far West and Orana,Western 1,Western NSW,-32.242937,148.638967,1
+8103,"Denison College of Secondary Education, Bathurst High Campus",2795,Year 7 to Year 12,963.0,8.0,15.0,107.0,Bathurst,Central West,Western 1,Western NSW,-33.413383,149.569679,1
+8105,Broken Hill High School,2880,Year 7 to Year 12,898.0,7.0,23.0,141.0,Broken Hill,Far West and Orana,Western 3,Far West,-31.960105,141.456986,1
+8134,Orange High School,2800,Year 7 to Year 12,988.0,6.0,12.0,92.0,Orange,Central West,Western 1,Western NSW,-33.280352,149.084361,1
+8146,Parkes High School,2870,Year 7 to Year 12,894.0,3.0,29.0,130.0,Parkes,Central West,Western 1,Western NSW,-33.138824,148.180256,1
+8148,Cowra High School,2794,Year 7 to Year 12,897.0,6.0,24.0,136.0,Cowra,Central West,Western 1,Western NSW,-33.814136,148.688347,1
+8314,The Henry Lawson High School,2810,Year 7 to Year 12,955.0,4.0,8.0,113.0,Weddin,Central West,Western 1,Western NSW,-33.902722,148.163449,1
+8346,Condobolin High School,2877,Year 7 to Year 12,827.0,3.0,52.0,145.0,Lachlan,Central West,Western 1,Western NSW,-33.091828,147.143195,3
+8347,Coonabarabran High School,2357,Year 7 to Year 12,920.0,5.0,26.0,121.0,Warrumbungle,Far West and Orana,North Western 1,Western NSW,-31.283104,149.285117,1
+8444,Canobolas Rural Technology High School,2800,Year 7 to Year 12,842.0,5.0,41.0,152.0,Orange,Central West,Western 1,Western NSW,-33.291759,149.121741,3
+8451,Coonamble High School,2829,Year 7 to Year 12,763.0,31.878934624697337,75.0,175.0,Coonamble,Far West and Orana,North Western 1,Western NSW,-30.955763,148.391351,3
+8475,Walgett Community College - High School,2832,Year 7 to Year 12,669.0,31.878934624697337,94.0,209.0,Walgett,Far West and Orana,North Western 1,Western NSW,-30.027113,148.118967,3
+8491,Willyama High School,2880,Year 7 to Year 12,911.0,6.0,22.0,133.0,Broken Hill,Far West and Orana,Western 3,Far West,-31.936552,141.473022,1
+8494,Coomealla High School,2717,Year 7 to Year 12,852.0,4.0,43.0,160.0,Wentworth,Murray,Riverina 3,Far West,-34.09598,142.060295,3
+8517,"Denison College of Secondary Education, Kelso High Campus",2795,Year 7 to Year 12,937.0,4.0,18.0,121.0,Bathurst,Central West,Western 1,Western NSW,-33.410541,149.61444,1
+8518,Canowindra High School,2804,Year 7 to Year 12,950.0,3.0,12.0,120.0,Cabonne,Central West,Western 1,Western NSW,-33.55892,148.670951,1
+8546,Gulgong High School,2852,Year 7 to Year 12,874.0,3.0,21.0,148.0,Mid-Western,Central West,North Western 1,Western NSW,-32.360172,149.540002,1
+8598,Oberon High School,2787,Year 7 to Year 12,935.0,9.0,15.0,132.0,Oberon,Central West,Western 1,Western NSW,-33.701691,149.861132,1
+8911,The Ponds High School,2769,Year 7 to Year 12,1100.0,72.0,1.0,20.0,Blacktown,Sydney - Blacktown,Metropolitan West,Western Sydney,-33.7033,150.89764,0
+2033,Goodooga Central School,2838,Kindergarten to Year 12,653.0,83.0,100.0,219.0,Brewarrina,Far West and Orana,North Western 1,Western NSW,-29.115865,147.455532,3
+4659,Southern Cross School of Distance Education,2478,Kindergarten to Year 12,903.0,8.0,33.0,145.0,Ballina,Richmond - Tweed,Upper North Coast,Northern NSW,-28.84975642,153.5858174,1
+2094,Gulargambone Central School,2828,Kindergarten to Year 12,716.0,31.878934624697337,79.0,191.0,Coonamble,Far West and Orana,North Western 1,Western NSW,-31.33224,148.475758,3
+4658,Lindfield Learning Village,2070,Kindergarten to Year 12,1160.0,41.0,1.0,0.0,Ku-ring-gai,Sydney - North Sydney and Hornsby,Metropolitan North,Northern Sydney,-33.790062,151.160509,0
+2395,Lightning Ridge Central School,2834,Kindergarten to Year 12,796.0,6.0,55.0,166.0,Walgett,Far West and Orana,North Western 1,Western NSW,-29.425211,147.978614,3
+2522,Mendooran Central School,2842,Kindergarten to Year 12,879.0,31.878934624697337,35.0,132.0,Warrumbungle,Far West and Orana,North Western 1,Western NSW,-31.818731,149.122445,1
+2523,Menindee Central School,2879,Kindergarten to Year 12,733.0,12.0,83.0,165.0,Central Darling,Far West and Orana,Western 3,Far West,-32.393368,142.41329,3
+8449,Figtree High School,2525,Year 7 to Year 12,1014.0,24.0,6.0,91.0,Wollongong,Illawarra,Upper South Coast,Illawarra Shoalhaven,-34.438352,150.855197,1
+8474,Lake Illawarra High School,2528,Year 7 to Year 12,899.0,7.0,21.0,148.0,Shellharbour,Illawarra,Upper South Coast,Illawarra Shoalhaven,-34.541828,150.850426,1
+3392,Warren Central School,2824,Kindergarten to Year 12,823.0,3.0,49.0,154.0,Warren,Far West and Orana,Western 2,Western NSW,-31.705114,147.836503,3
+8125,Lithgow High School,2790,Year 7 to Year 12,922.0,6.0,18.0,135.0,Lithgow,Central West,Western 1,Nepean Blue Mountains,-33.485739,150.166271,1
+8128,Mudgee High School,2850,Year 7 to Year 12,942.0,4.0,14.0,119.0,Mid-Western,Central West,North Western 1,Western NSW,-32.597793,149.583627,1
+8194,Forbes High School,2871,Year 7 to Year 12,863.0,4.0,36.0,140.0,Forbes,Central West,Western 1,Western NSW,-33.364596,148.011352,1
+8197,Wellington High School,2820,Year 7 to Year 12,780.0,3.0,63.0,165.0,Dubbo,Far West and Orana,Western 1,Western NSW,-32.546677,148.947815,3
+8318,Kandos High School,2848,Year 7 to Year 12,917.0,7.0,12.0,144.0,Mid-Western,Central West,North Western 1,Western NSW,-32.855738,149.974588,1
+8349,Gilgandra High School,2827,Year 7 to Year 12,859.0,6.0,37.0,143.0,Gilgandra,Far West and Orana,North Western 1,Western NSW,-31.703431,148.666529,1
+8353,Nyngan High School,2825,Year 7 to Year 12,852.0,6.0,43.0,136.0,Bogan,Far West and Orana,Western 2,Western NSW,-31.561368,147.188882,3
+8355,Bourke High School,2840,Year 7 to Year 12,686.0,31.878934624697337,84.0,190.0,Bourke,Far West and Orana,Western 2,Western NSW,-30.091467,145.948761,3
+8356,Cobar High School,2835,Year 7 to Year 12,895.0,4.0,22.0,123.0,Cobar,Far West and Orana,Western 2,Western NSW,-31.501643,145.827881,1
+8357,Blayney High School,2799,Year 7 to Year 12,953.0,4.0,12.0,121.0,Blayney,Central West,Western 1,Western NSW,-33.531048,149.251081,1
+8462,Narromine High School,2821,Year 7 to Year 12,761.0,3.0,67.0,167.0,Narromine,Far West and Orana,Western 1,Western NSW,-32.229655,148.242585,3
+8910,Cammeraygal High School,2065,Year 7 to Year 12,1125.0,46.0,15.594132029339853,15.0,North Sydney,Sydney - North Sydney and Hornsby,Metropolitan North,Northern Sydney,-33.832162,151.20304,0
+4661,Finigan School of Distance Education,2620,Kindergarten to Year 12,1046.0,18.0,5.0,71.0,Queanbeyan-Palerang,Capital Region,Upper South Coast,Southern NSW,-35.354009,149.221512,0
+8915,Armidale Secondary College,2350,Year 7 to Year 12,937.0,24.0,20.0,110.0,Armidale,New England and North West,North Western 2,Hunter New England,-30.519371,151.650348,1
+3249,Tottenham Central School,2873,Kindergarten to Year 12,937.0,31.878934624697337,18.0,100.0,Lachlan,Central West,Western 1,Western NSW,-32.245635,147.3521,1
+3259,Trundle Central School,2875,Kindergarten to Year 12,925.0,9.0,26.0,127.0,Parkes,Central West,Western 1,Western NSW,-32.925365,147.709198,1

@@ -1,0 +1,3 @@
+[submodule "data-frontend"]
+	path = data-frontend
+	url = https://github.com/Blue6641/GovHack2024
